@@ -1,3 +1,4 @@
+Q1: Write a program to input two numbers and display the sum
 #include<stdio.h>
 int main()
 {
